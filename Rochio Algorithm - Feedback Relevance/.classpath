@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-analyzers-common-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-benchmark-8.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-core-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-queries-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-queryparser-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
